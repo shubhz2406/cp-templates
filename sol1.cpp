@@ -23,13 +23,16 @@
 
    void solve()
    {
-     
+      
+      
       int tt;
       cin >> tt;
       while(tt--)
       {
          debug(tt)
          
+         
+      
 
 
 
