@@ -18,8 +18,15 @@
    #define ss second
    #define sz(x) ((int)(x).size())
    #define all(x) (x).begin(), (x).end()
+   #define for0(i,x) for(int i=0;i<x;i++)
+   #define for1(i,x) for(int i=1;i<=x;i++) 
+   #define forR(i,x) for(int i=x-1;i>=0;i--)
 
    typedef long long ll;
+   typedef vector<int> vi;
+   typedef pair<int,int> pi;
+
+
 
    void solve()
    {
@@ -31,11 +38,6 @@
       {
          debug(tt)
          
-         
-      
-
-
-
       }
       
 
